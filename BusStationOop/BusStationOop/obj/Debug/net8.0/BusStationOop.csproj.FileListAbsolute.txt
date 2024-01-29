@@ -1,0 +1,14 @@
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\bin\Debug\net8.0\BusStationOop.exe
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\bin\Debug\net8.0\BusStationOop.deps.json
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\bin\Debug\net8.0\BusStationOop.runtimeconfig.json
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\bin\Debug\net8.0\BusStationOop.dll
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\bin\Debug\net8.0\BusStationOop.pdb
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.AssemblyInfoInputs.cache
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.AssemblyInfo.cs
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.csproj.CoreCompileInputs.cache
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.dll
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\refint\BusStationOop.dll
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.pdb
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\BusStationOop.genruntimeconfig.cache
+C:\Users\zizig\source\repos\BusStationOop\BusStationOop\obj\Debug\net8.0\ref\BusStationOop.dll
